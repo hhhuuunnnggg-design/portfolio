@@ -54,7 +54,7 @@ const HeroLeft = () => {
                     btnStyle={{
                         background: "unset",
                         border: "1px solid var(--border-hero-right)",
-                        color: "var(--text-white-1)"
+                        color: "var(--text-white-1)",
                     }}
                 />
                 <ResizeButton
